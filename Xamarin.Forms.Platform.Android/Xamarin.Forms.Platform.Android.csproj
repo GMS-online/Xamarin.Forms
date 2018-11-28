@@ -185,6 +185,7 @@
     <Compile Include="Renderers\IDescendantFocusToggler.cs" />
     <Compile Include="Renderers\IImageSourceHandler.cs" />
     <Compile Include="Renderers\ImageExtensions.cs" />
+    <Compile Include="Renderers\FontImageSourceHandler .cs" />
     <Compile Include="Renderers\ImageLoaderSourceHandler.cs" />
     <Compile Include="Renderers\IToolbarButton.cs" />
     <Compile Include="Renderers\KeyboardExtensions.cs" />
